@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918428735816",
+    "project_id": "lpbsupermarket-c03a7",
+    "storage_bucket": "lpbsupermarket-c03a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918428735816:android:43e03b160e3fe075f4bb7d",
+        "android_client_info": {
+          "package_name": "com.example.lpbsupermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918428735816-di36dml776ki0cl8827j8n51a0h8db06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJ7BlTGtgEL4qXZYV9WNPbe0SD6ogTLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918428735816-di36dml776ki0cl8827j8n51a0h8db06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
